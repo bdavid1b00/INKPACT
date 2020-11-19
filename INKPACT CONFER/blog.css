@@ -1,0 +1,57 @@
+.narrow img{
+	width: 50%;
+	height: auto;
+	max-width: 50%;
+}
+
+.narrow h1{
+	text-transform: uppercase;
+	font-size: 1.9rem;
+	font-weight: 700;
+}
+
+.img-text{
+	text-align: justify;
+	border: 0;
+	margin:0;
+	padding: 0;
+	width: 50%;
+	margin: 0 auto;
+	height: 90px;
+	overflow: hidden;
+
+}
+
+
+#myBtn{
+	display: inline-block;
+	color: black;
+	background-color: #c9c9c7;
+	text-decoration: none;
+	padding: 10px 15px;
+	border-radius: 8px;
+	margin-top: 15px;
+}
+
+
+#mybtn{
+	display: inline-block;
+	color: black;
+	background-color: #c9c9c7;
+	text-decoration: none;
+	padding: 10px 15px;
+	border-radius: 8px;
+	margin-top: 15px;
+}
+
+
+.article.showContent p {
+
+	height: auto;
+}
+
+
+.article.showContent a#mybtn.readmore-btn{
+	background-color: #593a38;}
+
+	
